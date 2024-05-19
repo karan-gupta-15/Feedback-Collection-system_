@@ -219,8 +219,18 @@ app.listen (4000);
 	app.use(cors());
 
 
+# SCREENSHOTS 
+
+![Screenshot 2024-05-17 204149](https://github.com/karan-gupta-15/Feedback-Collection-system_ZIDIO_WEB_DEVELOPMENT/assets/120588164/b1f00cc7-cafd-4afd-a2d7-1b0ecc947815)
+
+
+![Screenshot 2024-05-17 204246](https://github.com/karan-gupta-15/Feedback-Collection-system_ZIDIO_WEB_DEVELOPMENT/assets/120588164/be7f4092-26a3-4f9c-aa73-9efed73701bf)
+
+
+![Screenshot 2024-05-17 204309](https://github.com/karan-gupta-15/Feedback-Collection-system_ZIDIO_WEB_DEVELOPMENT/assets/120588164/73a9eaca-265c-4c1d-aa6e-f0c4a55e5f9b)
 
  
-	
+![Screenshot 2024-05-17 204221](https://github.com/karan-gupta-15/Feedback-Collection-system_ZIDIO_WEB_DEVELOPMENT/assets/120588164/75fd7577-1cd1-4ed0-b188-171a355a5517)
+
 	
 	
